@@ -17,4 +17,4 @@
 5. **Miks peavad saladused jääma serverisse?** Brauserisse saadetud salajasi võtmeid saab kasutaja näha ja kuritarvitada.
 
 
-
+UUS BRANCH: Pull request
